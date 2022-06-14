@@ -19,6 +19,7 @@ Most days, i m like this...
   <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="100"/>
 </div>
 But some days feels like this...
+
 <div id="header2">
   <img src="https://media.giphy.com/media/nguAwtOo4nxAY/giphy.gif" width="100"/>
 </div>
