@@ -19,3 +19,7 @@ And i ' m definitely a hufflepuff. What about you ?
   <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="100"/>
 </div>
 
+also these are my contact links
+[Link to Linkedin](https://www.linkedin.com/in/%C5%9Feyma-y%C4%B1lmaz-613bb5186/)
+
+[Link to Twitter](https://twitter.com/sashapoulain)
