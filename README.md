@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there 👋  my name is seyma but you can call me sasha
 
 <!--
 **sashapoulain/SashaPoulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Most days, i m like this...
+And i ' m definitely a hufflepuff. What about you ?
 <div id="header1">
   <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="100"/>
-</div>
-But some days feels like this...
-
-<div id="header2">
-  <img src="https://media.giphy.com/media/nguAwtOo4nxAY/giphy.gif" width="100" />
 </div>
 
