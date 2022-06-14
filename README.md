@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Most days, i m like this...
-<div id="header" align="center">
+<div id="header1">
   <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="100"/>
 </div>
 But some days feels like this...
-<div id="header" align="center">
+<div id="header2">
   <img src="https://media.giphy.com/media/nguAwtOo4nxAY/giphy.gif" width="100"/>
 </div>
 
