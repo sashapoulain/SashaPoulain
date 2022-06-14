@@ -1,4 +1,4 @@
-### Hi there 👋  my name is seyma but you can call me sasha
+### Hi there 👋  my name is seyma but you can call me sasha or front-end developer😄
 
 <!--
 **sashapoulain/SashaPoulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
