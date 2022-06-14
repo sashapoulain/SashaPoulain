@@ -20,6 +20,7 @@ And i ' m definitely a hufflepuff. What about you ?
 </div>
 
 also these are my contact links
+<br>
 [Link to Linkedin](https://www.linkedin.com/in/%C5%9Feyma-y%C4%B1lmaz-613bb5186/)
-
+<br>
 [Link to Twitter](https://twitter.com/sashapoulain)
