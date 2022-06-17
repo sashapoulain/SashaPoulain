@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 And i ' m definitely a hufflepuff. What about you ?
 <div id="header1">
-  <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="200"/>
 </div>
 
 also these are my contact links
