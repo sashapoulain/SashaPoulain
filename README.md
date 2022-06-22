@@ -26,6 +26,4 @@ also these are my contact links
 [Twitter](https://twitter.com/sashapoulain)
 <br>
 [Instagram](https://www.instagram.com/sashapoulain/)
-<div class="links">
-    <a href="https://www.linkedin.com/in/%C5%9Feyma-y%C4%B1lmaz-613bb5186/" style="color: yellow;">Linkedin</a>
-</div>
+
