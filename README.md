@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-And i ' m definitely a 
-<span style="color: yellow">hufflepuff</span>. What about you ?
+And i ' m definitely a hufflepuff. What about you ?
 <div id="header1">
   <img src="https://media.giphy.com/media/PMp40oEvNfKve/giphy.gif" width="200"/>
 </div>
